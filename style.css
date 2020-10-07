@@ -1,9 +1,12 @@
 h1 {
-    font-family: sans-serif;
+    font-size: 26px;
+     font-family: sans-serif;
      border-style: solid;
      border-width: 5px;
      border-color: #7A0019;
      background-color: #FFCC33;
+     padding: 10px;
+     text-align: center;
 }
 h2 {
      color: #333333;
@@ -11,8 +14,15 @@ h2 {
      border-style: none;
      background-color: #FFDE7A;
      padding: 10px;
+     font-family: sans-serif;
      text-align: center;
    }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
    p {
      font-size: 18px;
      margin-left: 300px;
