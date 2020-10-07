@@ -2,11 +2,7 @@
    h1 {
      font-size: 26px;
      font-family: sans-serif;
-     border-style: solid;
-     border-width: 5px;
-     border-color: #7A0019;
-     background-color: #FFCC33;
-     padding: 10px;
+     background-color: #7A0019;
      text-align: center;
    }
 
@@ -28,7 +24,7 @@
    }
 
    table, th, td {
-     border: 1px solid;
+     border: 1px solid black;
    }
    th {
   text-align: left;
